@@ -13,29 +13,9 @@ BITSTREAM CHARTER is a registered trademark of Bitstream Inc.
 */
 
 @font-face {
-    font-family: 'Courier 10 Pitch';
+    font-family: 'Courier10';
     src: url('../fonts/c0419bt_.woff2') format('woff2'),
     font-weight: normal;
     font-style: normal;
 }
 
-@font-face {
-    font-family: 'Courier 10 Pitch';
-    src: url('../fonts/c0582bt_.woff2') format('woff2'),
-    font-weight: normal;
-    font-style: italic;
-}
-
-@font-face {
-    font-family: 'Courier 10 Pitch';
-    src: url('../fonts/c0583bt_.woff2') format('woff2'),
-    font-weight: bold;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'Courier 10 Pitch';
-    src: url('../fonts/c0611bt_.woff2') format('woff2'),
-    font-weight: bold;
-    font-style: italic;
-}
