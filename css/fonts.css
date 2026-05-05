@@ -19,3 +19,10 @@ BITSTREAM CHARTER is a registered trademark of Bitstream Inc.
     font-style: normal;
 }
 
+@font-face {
+    font-family: 'MapleMono';
+    src: url('../fonts/maple.woff2') format('woff2'),
+    font-weight: normal;
+    font-style: normal;
+}
+
