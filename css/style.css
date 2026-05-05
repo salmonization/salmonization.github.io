@@ -1,0 +1,13 @@
+body {
+    max-width: 600px;
+    height: 100%;
+    margin: auto;
+    padding: 50px 20px;
+    margin-top: 20px;
+    margin-botton: 20px;
+    font-family: 'Courier 10 Pitch';
+}
+
+p {
+    font-size: 14px;
+}
